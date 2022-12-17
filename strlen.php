@@ -5,9 +5,9 @@
 <body>
     <h2>Fungsi : String strlen()</h2>
     <?php
-    $string-"Penggunaan Web PHP";
+    $string="Penggunaan Web PHP";
     $jml=strlen($string);
-    echo("<1>\"$string\"</1><br>");
+    echo("\"$string\"<br>");
     echo("Banyak karakter adalah $jml");
     ?>
 </body>

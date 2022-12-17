@@ -1,8 +1,8 @@
 <html>
-    <head>
-        <title>Tipe Data Objek</title>
-    </head>
-    <body>
+<head>
+    <title>Tipe Data Objek</title>
+</head>
+<body>
         <h2>Tipe Data ObjeK</h2>
         <?php
         class Desl

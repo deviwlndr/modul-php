@@ -5,7 +5,7 @@
 <body>
     <h2>Penggunaan Kontrol if</h2>
     <?php
-        $umur=18;
+        $umur=15;
         echo("Umur anda $umur tahun <br>");
         if($umur>=17)
         {

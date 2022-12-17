@@ -4,7 +4,7 @@
 </head>
 <body>
     <h2>Penggunaan Kontrol Foreach</h2>
-    <b>Nama Bulan : <br><br>
+    <b>Nama Bulan : </b><br>
     <?php
     $i=0;
     $bulan=array("Januari", "Februari", "Maret", "April", "Mei", "Juni",

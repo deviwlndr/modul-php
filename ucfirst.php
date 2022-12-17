@@ -7,8 +7,8 @@
     <?php
     $string="Pemograman Web PHP";
     $word=ucfirst($string);
-    echo("<I>\"$string\"</i><br>");
-    echo("Hasil ucfirst adalah <i>\$word\"<i>");
+    echo("<i>\"$string\"</i><br>");
+    echo("Hasil ucfirst adalah <i>\"$word\"<i>");
     ?>
 </body>
 </html>

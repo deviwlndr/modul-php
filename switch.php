@@ -6,7 +6,7 @@
     <h2>Penggunaan Kontrol Switch</h2>
     <?php
     $angka_mutu=3;
-    echo("Angka mutu $angka mutu<br>");
+    echo("Angka mutu $angka_mutu<br>");
     switch($angka_mutu)
     {
     case 0: echo ("Huruf mutu E"); break;
